@@ -1,7 +1,7 @@
 # ChatKu
 Node js ve Socket.io kullanılarak yapılan basit bir android chat uygulaması
 
-1- Run Node Js
+<b>1- Run Node Js</b>
 
 cd node_js_deneme_socket_io 
 
